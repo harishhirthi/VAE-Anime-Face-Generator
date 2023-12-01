@@ -13,7 +13,7 @@ Probabilistic based Generative AI to generate new Anime Faces.
 ## Video:
 Below video shows the sequence of images generated while Training.
 
-https://github.com/harishhirthi/VAE-Anime-Face-Generator/assets/43694283/af1a215f-7a1f-4ad7-971f-70e188283fe9
+![vae](https://github.com/harishhirthi/VAE-Anime-Face-Generator/assets/43694283/31aa7d90-d890-47db-ae8a-a8259fcc94ea)
 
 ## Contain one file and folder:
 * VAE.ipynb - Notebook about VAE
